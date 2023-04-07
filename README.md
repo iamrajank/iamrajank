@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamrajank.iamrajank)
-<img align="right" alt="GIF" src="![gif](https://user-images.githubusercontent.com/101178067/230595848-dcba1fe8-66f6-44c0-af93-a648bf1cadc2.gif)
-" width="450" height="300" />
+<img align="right" alt="GIF" src="https://tenor.com/en-IN/view/joy-gif-25414590" width="450" height="300" />
 
 
 
