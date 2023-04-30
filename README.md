@@ -1,6 +1,8 @@
 <h1 align="center">hey!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  I'm Rajan Kumar </h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Frontend+Web+developer!+%F0%9F%92%BB)](https://github.com/iamrajank)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=iamrajank.iamrajank)
 <img align="right" alt="GIF" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="450" height="300" />
 
