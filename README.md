@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Mini Project**
 
-- 🌱 I’m currently learning **New Technology**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **any tech related stuff.**
 
