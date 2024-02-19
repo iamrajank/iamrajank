@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rajankrpoddar@gmail.com**
 
-- ⚡ Fun fact **simple and silent guys.**
+- ⚡ Fun fact **Trying to understand the language of 0s and 1s.**
 
 
 
