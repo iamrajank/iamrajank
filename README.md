@@ -35,9 +35,10 @@
 --->
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamrajank&show_icons=true&theme=gotham" />
-	 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajank&theme=gotham" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajank&theme=gotham" />
 	<br/>
 	
 <img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajank&theme=gotham&hide=jupyter%20notebook" />
-<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=iamrajank&theme=gotham" />	
 </p>
+![](./profile-3d-contrib/profile-night-green.svg)
+
