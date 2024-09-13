@@ -8,7 +8,7 @@
 <!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamrajank.iamrajank) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrajank&label=Profile%20views&color=0e75b6&style=flat" alt="iamrajank" /> </p>
-<img align="right" alt="GIF" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="450" height="300" />
+<img align="right" alt="GIF" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="450" height="250" />
 
 
 
