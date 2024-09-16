@@ -31,15 +31,15 @@ const Rajan_Kumar = {
   pronouns: ["He" | "Him"],
   code: ["Python", "Javascript", "HTML", "CSS", "MySQL"],
   askMeAbout: ["Web Dev", "Frontend Dev", "Python", "Machine Learning"],
-  technologies: 
+  technologies: {
       frontend: ["HTML", "CSS", "JavaScript", "React.JS"],
       backend: ["Node.JS", "Express.JS", "MySQL", "MongoDB", "Firebase"],
-  
-  workplace: 
-            college: "NIET",
-            course: "B-Tech",
-            branch: "Computer Science and Engineering"
-  
+}
+  workplace: {
+            college: ["NIET"],
+            course: ["B-Tech"],
+            branch: ["Computer Science and Engineering"]
+} 
 }
 ```
 ------------------
