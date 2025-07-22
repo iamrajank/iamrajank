@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Mini Project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **New Technologies like AI,ML,GenAI**
 
 - 💬 Ask me about **any tech related stuff.**
 
