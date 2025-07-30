@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Software+Developer;I'm+Frontend+Developer;"></p>
 
-<h3 align="center">Front-End Developer | Machine Learning | Computer Science Engineer</h3>
+<h3 align="center"> Developer | Machine Learning | Computer Science Engineer</h3>
 <!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamrajank.iamrajank) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrajank&label=Profile%20views&color=0e75b6&style=flat" alt="iamrajank" /> </p>
